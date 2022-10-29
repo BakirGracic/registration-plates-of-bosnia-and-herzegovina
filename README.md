@@ -14,9 +14,9 @@
 - ~53mb .txt file
 
 ####  2) Taxi plates
-- Format: TT-000000
+- Format: TA-000000
 - 9 characters per plate
-- TT are syntax characters
+- TA are syntax characters
 - 000000 is a number from 0-999999
 - dash is a syntax character
 - 1.000.000 combinations
