@@ -32,14 +32,6 @@
 - 276.000 combinations
 - ~2.8mb .txt file
 
-### Backstory
-The idea for creating this project was born when I had been lectured probabilistics on my math class. My teacher gave us a task to calculate the amount of possible combinations for B&H registration plates using the given format. Although being 30min late to my class (from coding all night 😉) I was swiftly able to find the correct number of possible combinations (which is 4.9m)  and challenged myself to have a full list of all those registration plates. I chose C++ mainly because of it's speed, simplicity and I was comfortable writing it. Contrary to popular belief that any program (except Hello World and really simple ones) couldn't be executed without bugs on first try, believe it or not, I was able to write all 3 of these programs that executed correctly and successfully on first try!
-
-### How to
-- download .txt files and use them that way
-- you can generate .txt files on your own by executing .exe files (disable antivirus programs), generation duration depends on your device, 100mb of space required for all 3 types of plates
-- you can view and study my code by opening .cpp files (I recommend Visual Studio because it has in-built compiler and debugger, or any IDE similar to it)
-
 ### Disclaimer
 I am not responsible for malicious use of this information and the consequences.
 I hope all of this information will help you in any way!
