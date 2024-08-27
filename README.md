@@ -12,6 +12,7 @@
 - dash is a syntax character
 - 4.900.000 combinations
 - ~53mb .txt file
+- regex pattern: `^[AEOJKMT][0-9]{2}-[AEOJKMT]-[0-9]{3}$`
 
 ####  2) Taxi plates
 - Format: TA-000000
